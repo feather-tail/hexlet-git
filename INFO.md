@@ -1,3 +1,1 @@
-git is awesome!
-newline
-experiment with amend
+I love Hexlet!
